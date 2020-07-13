@@ -1,0 +1,69 @@
+h1,h3,h4{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+#img-div{
+    /* border-radius: 50%; */
+    text-align: center;
+    /* background-color: #FFFFFF; */
+}
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+    max-width: 700px;
+}
+#main{
+    display: block;
+    /* margin: 2%; */
+    background-color: rgb(100,255,255);
+}
+#tribute-info{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Raleway', sans-serif;
+}
+ul li{
+    padding-bottom: 20px;
+}
+h2,#end{
+    text-align: center;
+    font-weight: 800;
+}
+#img-sec{
+    background-color: #FFFFFF;
+    margin: auto 10px;
+}
+#tribute-link{
+    text-align: center;
+}
+blockquote{
+    font-style: italic;
+}
+footer{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+hr{
+        overflow: visible; /* For IE */
+        padding: 0;
+        border: none;
+        border-top: medium double #333;
+        color: #333;
+        text-align: center;
+}
+hr:after {
+        content: "§";
+        display: inline-block;
+        position: relative;
+        top: -0.7em;
+        font-size: 1.5em;
+        padding: 0 0.25em;
+        /* background: white; */
+}
+#quote{
+    color: rgb(0, 58, 250);
+}
